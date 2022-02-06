@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1616409372 source:d:\c++\project atm\main.cpp
+	<bits/stdc++.h>
+	"atm.h"
+	"account.h"
+	"proccess.h"
+
+1616408418 d:\c++\project atm\atm.h
+
+1616411289 d:\c++\project atm\account.h
+	"atm.h"
+
+1612721099 d:\c++\project atm\proccess.h
+	"account.h"
+
